@@ -2,7 +2,7 @@
   "assets": [
     {
       "id": "Everydays/[01-01-17]-Night",
-      "model": "furniture/[01-01-17]-Night.obj",
+      "model": "Everydays/[01-01-17]-Night.obj",
       "thumbnail": "Everydays/[01-01-17]-Night.jpg",
       "tags": ["Model"]
     }
